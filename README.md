@@ -5,6 +5,11 @@
 
 ---
 ### About me
+<p>
+I'm an electronic engineer and developer.
+I love challenges, also innovation, programming and the Internet of Things (IoT). I have the ability to adapt to new environments and maintain constant training.
+
+Thanks to the experience gained in my projects and works, I have mastered the programming of microcontroller and Arduino devices, I have the ability to link their operation with different modules and platforms in the cloud, I also master Python 🐍, JavaScript, MySQL. I have mentored other people in engineering and programming projects.
 
 ```javascript
 const Francisco = {
