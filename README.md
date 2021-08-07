@@ -1,5 +1,6 @@
 
-<h3 align="center"><center><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50">  Hi there! I’m Francisco Salazar - @ciscosalazar</center></h3>
+<h3 ><center><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50">  Hi there! </h3>
+  <h3 align="center">I’m Francisco Salazar - @ciscosalazar</center></h3>
 <h3 align="center">Python Developer | Electronic Engineer</h2>
 
 ---
