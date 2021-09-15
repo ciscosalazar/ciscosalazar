@@ -18,7 +18,7 @@
 
 ```javascript
 const Francisco = {
-  code: [Javascript, Python, HTML, CSS, C++, C, MySQL],
+  code: [Javascript, Python, HTML, CSS, C++, C, MySQL, Golang]
   tools: [Flask]
 }
 ```
