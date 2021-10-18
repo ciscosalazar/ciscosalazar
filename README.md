@@ -36,11 +36,10 @@ const Francisco = {
 
 
 <h3>📫 Reach me</h3>
-<ul>
-  <li><a href="https://www.linkedin.com/in/franciscosalazarm/">Linkedin</a></li>
-  <li><a href="mailto:ciscosalazar@gmail.com">Email</a></li>
-  <li><a href="https://twitter.com/cisco_salazar">Twitter</a></li>
-</ul>
+
+* <a href="https://www.linkedin.com/in/franciscosalazarm/">Linkedin</a>
+* <a href="mailto:ciscosalazar@gmail.com">Email</a>
+* <a href="https://twitter.com/cisco_salazar">Twitter</a>
 
 
 <!---
