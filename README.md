@@ -40,7 +40,7 @@ const Francisco = {
 
 * <a href="https://www.linkedin.com/in/franciscosalazarm/">Linkedin</a>
 * <a href="mailto:ciscosalazar@gmail.com">Email</a>
-* <a href="https://twitter.com/cisco_salazar">Twitter</a>
+* <a href="https://x.com/cisco_salazar">X</a>
 
 
 <!---
